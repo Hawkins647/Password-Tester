@@ -1,4 +1,2 @@
-# Password-Cracker
-A simple brute force password cracker in python.
-
-NOTE: whilst this is obviously not very sophisticated, please do not use this for malicious intent. I made this for fun (:
+# Password-Tester
+A simple password tester in python that uses wordsheets to compare a password.
